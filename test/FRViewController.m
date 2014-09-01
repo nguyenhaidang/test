@@ -27,7 +27,7 @@
     // Dispose of any resources that can be recreated.
     NSLog(@"Fdsf");
     
-    NSLog(@"fdsfsdf");
+    NSLog(@"fdsf");
 }
 
 @end
