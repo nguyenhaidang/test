@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BF6D17CA-7A8D-4999-B159-220C859B9051</string>
+	<string>15B027F3-E38E-44DB-B25B-9B91A854AE11</string>
 	<key>IDESourceControlProjectName</key>
 	<string>test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>11A58F7C-A008-410C-9E8F-F54D930F864C</key>
-		<string>https://github.com/nguyenhaidang/test.git</string>
+		<key>ACF8A874-8239-4A07-A530-F9A142F52976</key>
+		<string>https://github.com/yeuem141289/test-1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>test.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>11A58F7C-A008-410C-9E8F-F54D930F864C</key>
+		<key>ACF8A874-8239-4A07-A530-F9A142F52976</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/nguyenhaidang/test.git</string>
+	<string>https://github.com/yeuem141289/test-1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>11A58F7C-A008-410C-9E8F-F54D930F864C</string>
+	<string>ACF8A874-8239-4A07-A530-F9A142F52976</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>11A58F7C-A008-410C-9E8F-F54D930F864C</string>
+			<string>ACF8A874-8239-4A07-A530-F9A142F52976</string>
 			<key>IDESourceControlWCCName</key>
-			<string>test1</string>
+			<string>test-1</string>
 		</dict>
 	</array>
 </dict>

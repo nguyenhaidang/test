@@ -28,6 +28,7 @@
     NSLog(@"Fdsf");
     
     NSLog(@"fdsfsdf");
+    NSLog(@"Fdsf");
 }
 
 @end
