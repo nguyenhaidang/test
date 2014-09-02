@@ -1,4 +1,4 @@
-//
+f//
 //  testTests.m
 //  testTests
 //
@@ -27,7 +27,7 @@
 }
 
 - (void)testExample
-{
+{sdfdsf
     XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
 }
 
