@@ -8,7 +8,7 @@
 
 #import "FRAppDelegate.h"
 
-@implementation FRAppDelegate
+@implementation FRAppDelegatefsdf
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
